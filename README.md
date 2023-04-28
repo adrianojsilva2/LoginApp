@@ -5,6 +5,12 @@ Atualização adicionando um splash screen e mais duas telas uma de login errado
 - Tutorial disponível em https://www.youtube.com/@brunofrs7
 ![Screenshot_1682600645|100x100,50%](https://user-images.githubusercontent.com/13179667/234871145-2c98a868-467a-4217-bf62-67ca54e2ecb5.png)
 
+<Screenshot_1682600645 src="https://user-images.githubusercontent.com/13179667/234871145-2c98a868-467a-4217-bf62-67ca54e2ecb5.png" width="400" height="790">
+
+
+
+
+
 
 
 
